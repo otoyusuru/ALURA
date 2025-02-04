@@ -2,7 +2,7 @@
 
 # 🎉 Amigo Secreto
 
-Este es un proyecto simple en **JavaScript, HTML y CSS** que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
+Este es un proyecto realizado en **JavaScript, HTML y CSS**, consiste en un juego de amigo secreto
 
 ## 🚀 Funcionalidades
 - **Agregar nombres**: Los usuarios pueden escribir el nombre de un amigo y agregarlo a una lista.
@@ -32,13 +32,6 @@ Este es un proyecto simple en **JavaScript, HTML y CSS** que permite a los usuar
 2. **Abrir el archivo `index.html` en el navegador.**
 
 ## 🖥️ Captura de pantalla
-![Vista previa del proyecto](assets/amigo-secreto.png)
-
-## 🏆 Mejoras futuras
-- Permitir eliminar nombres de la lista.
-- Guardar la lista en localStorage para que no se borre al recargar la página.
-- Agregar animaciones para mejorar la experiencia del usuario.
-
-## 📜 Licencia
-Este proyecto se distribuye bajo la licencia MIT. ¡Siéntete libre de modificar y compartir! 😊
+![Vista previa del proyecto](Captura1.png)
+![Vista previa del proyecto](Captura2.png)
 
