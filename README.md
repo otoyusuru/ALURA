@@ -1,3 +1,0 @@
-# ALURA
-
-Projecto amigo secreto
